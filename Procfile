@@ -1,1 +1,1 @@
-web: uvicorn cobra:app --host=0.0.0.0 --port=${PORT}
+web: uvicorn detectshroom:app --host=0.0.0.0 --port=${PORT}
